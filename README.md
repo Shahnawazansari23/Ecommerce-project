@@ -1,2 +1,1 @@
-# Ecommerce-project
-Ecommerce-capstone-project
+# ecommerce-app-2023
